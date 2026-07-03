@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+log_whatsapp_mock.txt
+.DS_Store
